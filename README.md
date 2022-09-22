@@ -34,7 +34,7 @@
 <td>Custom data variable</td>
               <tr>
 <td>HttpPostLink</td>
-<td>&nbsp;</td>
+<td>IP or link information to send data</td>
                               <tr>
 <td>ClvUsername</td>
 <td>&nbsp;</td>
@@ -51,4 +51,4 @@
 </tr>
 </tbody>
 </table>
-<!-- DivTable.com -->
+
