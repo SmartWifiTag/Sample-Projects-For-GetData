@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td>interval</td>
-<td>&nbsp;</td>
+<td>Information on how many minutes to send data</td>
   <tr>
 <td>Variable1</td>
 <td>&nbsp;</td>
