@@ -2,7 +2,7 @@
 <tbody>
 <tr>
 <td>SerialID;</td>
-<td>&nbsp;</td>
+<td>Serial number of the tag</td>
 </tr>
 <tr>
 <td>BatteryVoltage</td>
