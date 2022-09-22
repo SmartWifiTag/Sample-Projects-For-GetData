@@ -22,16 +22,16 @@
 </tr>
 <tr>
 <td>interval</td>
-<td>Information on how many minutes to send data</td>
+<td>How many minutes repetitive data transmission time</td>
   <tr>
 <td>Variable1</td>
-<td>&nbsp;</td>
+<td>Custom data variable</td>
     <tr>
 <td>Variable2</td>
-<td>&nbsp;</td>
+<td>Custom data variable</td>
       <tr>
 <td>Variable3</td>
-<td>&nbsp;</td>
+<td>Custom data variable</td>
               <tr>
 <td>HttpPostLink</td>
 <td>&nbsp;</td>
