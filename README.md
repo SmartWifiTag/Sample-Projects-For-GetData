@@ -6,15 +6,15 @@
 </tr>
 <tr>
 <td>BatteryVoltage</td>
-<td>&nbsp;</td>
+<td>Voltage information of the battery</td>
 </tr>
 <tr>
 <td>BatterLevel</td>
-<td>&nbsp;</td>
+<td>Battery charge percentage</td>
 </tr>
 <tr>
 <td>SsId;</td>
-<td>&nbsp;</td>
+<td>Data sent wifi name</td>
 </tr>
 <tr>
 <td>Wifipassword</td>
