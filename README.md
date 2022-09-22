@@ -38,11 +38,11 @@
                               <tr>
                                                                                                                               <tr>
 <td>GeoRequestData</td>
-<td>&nbsp;</td>
+<td>This is a library that sends Google Maps GeoLocaion API a request with a list of all WiFi AP's BSSID that your microcontroller listens to. Google, then answer with location and accuracy in JSON format.</td>
 </tr>
                                                                                                                                 <tr>
 <td>networks</td>
-<td>&nbsp;</td>
+<td>Lists the networks and signal strengths around the tag</td>
 </tr>
 </tbody>
 </table>
