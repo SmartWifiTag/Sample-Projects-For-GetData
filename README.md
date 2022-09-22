@@ -13,8 +13,8 @@
 <td>Battery charge percentage</td>
 </tr>
 <tr>
-<td>SsId;</td>
-<td>Data sent wifi name</td>
+<td>SsId</td>
+<td>Shows which wifi the incoming data comes from</td>
 </tr>
 <tr>
 <td>Wifipassword</td>
