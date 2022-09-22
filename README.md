@@ -1,7 +1,7 @@
 <table>
 <tbody>
 <tr>
-<td>SerialID;</td>
+<td>SerialID</td>
 <td>Serial number of the tag</td>
 </tr>
 <tr>
