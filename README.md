@@ -36,11 +36,6 @@
 <td>HttpPostLink</td>
 <td>IP or link information to send data</td>
                               <tr>
-<td>ClvUsername</td>
-<td>&nbsp;</td>
-                                                              <tr>
-<td>ClvPassword</td>
-<td>&nbsp;</td>
                                                                                                                               <tr>
 <td>GeoRequestData</td>
 <td>&nbsp;</td>
