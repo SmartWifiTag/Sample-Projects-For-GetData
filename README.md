@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td>Wifipassword</td>
-<td>&nbsp;</td>
+<td>The wifi password of the network sending the data</td>
 </tr>
 <tr>
 <td>interval</td>
