@@ -1,4 +1,4 @@
-Tags content-type' application/x-www-form-urlencoded data is to post to the url defined from the device interface, you can integrate the data posted via this url into your own system.
+<p><span style="font-size:18px">Tags content-type&#39; <strong>application/x-www-form-urlencoded</strong> data is to post to the url defined from the device interface, you can integrate the data posted via this url into your own system.</span></p>
 
 
 <table>
