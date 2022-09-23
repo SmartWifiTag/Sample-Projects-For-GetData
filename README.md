@@ -1,3 +1,6 @@
+Tags content-type' application/x-www-form-urlencoded data is to post to the url defined from the device interface, you can integrate the data posted via this url into your own system.
+
+
 <table>
 <tbody>
 <tr>
